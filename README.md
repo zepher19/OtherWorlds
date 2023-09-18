@@ -2,7 +2,7 @@
 
 Hello there!
 
-I'm currently looking for a coding job, so I decided to create an oriignal app to showcase my Java language competency.
+I'm currently looking for a coding job, so I decided to create an orignal app to showcase my Java language competency.
 
 Here's a quick demo video if you'd like to see the app in action:
 
