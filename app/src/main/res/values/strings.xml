@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="every_story_begins_with_a_single_sentence_you_can_do_this">Every story begins with a single sentence. You can do this!</string>
+    <string name="server_client_id">877538008453-f54cgorusn57dphk96obl5bf3rcak435.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_explanation"> Other Worlds is an app for writing and sharing stories. To blast off, simply log in with your Google Account! </string>
+    <string name="zoom_around"> Now use the bottom navigation bar to zoom around! Travel to Other Worlds created by your fellow explorers or create your own! Bon voyage!</string>
+    <string name="signed_in">Signed In!</string>
+    <string name="sign_in">Sign In</string>
+
+</resources>
